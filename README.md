@@ -1,20 +1,52 @@
-### Item Templates
+## Final Project Preparation
 
-This repository contains the code for creating pages that utilize our database to display product data in accordance with the design templates provided during the Midterm assessment.
+### Instructions
 
-#### Purpose
-The purpose of this project is to implement the design templates into functional web pages that showcase product information retrieved from a database.
+Now is the time to make all the last-minute preparations for the Final Project. Let's review the requirements:
 
-#### Tools Used
-- Sublime Text: Used for coding and editing HTML, CSS, and PHP files.
-- GitHub: Used for version control and collaboration.
-- Web host: Used for hosting the project online.
+#### Pages
 
-#### Assignment Details
-- **Instructions:** Follow the instructions provided in the assignment prompt to create list, item, and cart pages based on the design templates.
-- **Due Date:** The assignment is due by the end of this module.
+1. **Landing/Advertisement/Main page**
+2. **Product List page**
+3. **Product Individual Item page**
+4. **Product Added to Cart page**
+5. **Cart Review page**
+6. **Cart Checkout/Purchase page**
+7. **Purchase Confirmation page**
+8. **Product Administration page**
+   - *Note:* This page is for admin use only and should not be designed for regular users to shop.
+9. **Style guide page**
 
-#### Submission
+#### Tasks to Complete
+
+- Prepare to export your database and submit it in the next module.
+- Test your project on a mobile device.
+- Ask for a second opinion on your design.
+
+### Purpose
+
+Prepare your Final Project for submission in the next module.
+
+### Tools
+
+- **Text Editor:** Sublime Text (or any preferred editor)
+- **Version Control:** GitHub (for version tracking and collaboration)
+- **Web Hosting:** (for deployment and testing)
+
+### Due Date
+
+The assignment is due by the end of this module.
+
+### Submission Directions
+
 1. Commit and push your work to GitHub.
-2. Submit a link to your GitHub repository.
-3. Submit a link to your project index, where the implemented pages can be viewed.
+2. Submit a link to your project index (`https://roderickfields.com/AAU/wnm608/roderick.fields/FinalProject/index.php`).
+3. Submit a link to your GitHub repository. (`https://github.com/roderickfields/FinalProject`).
+
+### Example Submission
+
+**Sample 1:**
+
+- **Project Index:** [http://feliciasd.com/aau/ixd608/dharmawan.felicia/index.php](http://feliciasd.com/aau/ixd608/dharmawan.felicia/index.php)
+- **GitHub Repository:** [https://github.com/feliciasd/wnm608_202190_ol2/](https://github.com/feliciasd/wnm608_202190_ol2/)
+
